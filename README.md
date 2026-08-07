@@ -85,50 +85,19 @@ Building scalable backend applications using Java and Spring ecosystem.
 
 ✔ Integrated MSG91 & WhatsApp APIs for customer notifications.
 
-✔ Worked with AWS EC2 & AWS S3.
+✔ Worked with AWS S3.
 
 ✔ Optimized MySQL queries and database performance.
-
----
-
-# 📚 Currently Learning
-
-- Advanced Spring Boot
-- Microservices
-- System Design
-- Redis
-- Docker
-- Kubernetes
-- DSA (Java)
-
----
-
-# 🏆 Featured Projects
-
-### 🚀 Java DSA Practice
-Data Structures & Algorithms solutions in Java.
-
-### 🚀 Spring Batch Notification System
-Automated scheduled notification processing using Spring Batch.
-
-### 🚀 JWT Authentication
-Secure authentication using Spring Security and JWT.
-
-### 🚀 REST API Backend
-Backend APIs using Spring Boot, Hibernate and MySQL.
-
-### 🚀 Firebase Squad Chat
-Real-time chat application using Firebase Firestore and Spring Boot.
 
 ---
 
 # 📫 Connect With Me
 
 💼 LinkedIn  
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/rathinavelpandian7899/
 
 📧 Email  
-YOUR_EMAIL
+rathinavel7899@gmail.com
 
 ---
 
