@@ -10,7 +10,7 @@ Building scalable backend applications using Java and Spring ecosystem.
 
 ## 👨‍💻 About Me
 
-💼 Java Backend Developer with **1.5+ years of professional experience**
+💼 Java Backend Developer with **2+ years of professional experience**
 
 🔹 Experienced in developing scalable backend applications using **Java, Spring Boot, Spring MVC, Hibernate and Spring Data JPA**
 
