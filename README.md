@@ -1,4 +1,4 @@
-                              #Hi 👋 I'm Rathinavel Pandian
+#Hi 👋 I'm Rathinavel Pandian
 
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | Kafka | Spring AI</h3>
 
