@@ -1,4 +1,4 @@
-# Hi 👋 I'm Rathinavel Pandian
+   # Hi 👋 I'm Rathinavel Pandian
 
 <h3 align="center">Java Backend Developer | Spring Boot | Microservices | Kafka | Spring AI</h3>
 
@@ -45,6 +45,34 @@ Building scalable backend applications using Java and Spring ecosystem.
 
 ---
 
+# 💼 Professional Experience
+
+### Java Backend Developer
+
+**Cotyledon Technologies Pvt Ltd | Aug 2024 – Present**
+
+✔ Developed REST APIs using **Java, Spring Boot, Spring MVC and Hibernate**.
+
+✔ Designed scalable slot booking architecture for a **multi-vendor booking platform**.
+
+✔ Redesigned the slot management system from a slot-ID-based model to a **time-based slot model**, reducing database records and simplifying booking/cancellation logic.
+
+✔ Developed **Spring Batch** jobs for scheduled and background processing.
+
+✔ Integrated **Razorpay Payment Gateway** for payment processing.
+
+✔ Integrated **Firebase Firestore** for real-time group chat.
+
+✔ Implemented **Firebase Cloud Messaging (FCM)** for push notifications.
+
+✔ Integrated **MSG91 and WhatsApp APIs** for customer notifications.
+
+✔ Worked with **AWS S3** for file storage and retrieval.
+
+✔ Optimized **MySQL queries and database operations** for application performance.
+
+---
+
 # 🚀 Featured Project
 
 ## 🛒 E-Commerce AI — Microservices Project
@@ -74,34 +102,6 @@ Building scalable backend applications using Java and Spring ecosystem.
 ### 🔧 Technologies
 
 `Java` `Spring Boot` `Microservices` `Apache Kafka` `Spring AI` `LLM` `MySQL` `Docker` `Maven`
-
----
-
-# 💼 Professional Experience
-
-### Java Backend Developer
-
-**Cotyledon Technologies Pvt Ltd | Aug 2024 – Present**
-
-✔ Developed REST APIs using **Java, Spring Boot, Spring MVC and Hibernate**.
-
-✔ Designed scalable slot booking architecture for a **multi-vendor booking platform**.
-
-✔ Redesigned the slot management system from a slot-ID-based model to a **time-based slot model**, reducing database records and simplifying booking/cancellation logic.
-
-✔ Developed **Spring Batch** jobs for scheduled and background processing.
-
-✔ Integrated **Razorpay Payment Gateway** for payment processing.
-
-✔ Integrated **Firebase Firestore** for real-time group chat.
-
-✔ Implemented **Firebase Cloud Messaging (FCM)** for push notifications.
-
-✔ Integrated **MSG91 and WhatsApp APIs** for customer notifications.
-
-✔ Worked with **AWS S3** for file storage and retrieval.
-
-✔ Optimized **MySQL queries and database operations** for application performance.
 
 ---
 
